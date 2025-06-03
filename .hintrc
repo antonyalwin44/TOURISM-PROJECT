@@ -6,7 +6,7 @@
     "axe/parsing": [
       "default",
       {
-        "marquee": "off"
+        "marquee": "off"  
       }
     ]
   }
